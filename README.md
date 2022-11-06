@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 🏛 I'm studying at Thammasat University.
+
 🤔 I’m looking for company to internship.
+
 🌱 I’m currently learning about ReactJS.
+
 😪 ..z
+
 😎 Wake me up pls.
