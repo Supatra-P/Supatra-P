@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 😪 ..z
 
-😎 Wake me up pls.
+:trollface:
