@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🏛 I'm studying at Thammasat University.
 
-🤔 I'm seeking for a company where I can intern.
+🤔 I'm looking for an internship opportunity with a corporation.
 
 🌱 I’m currently learning about React.
 
