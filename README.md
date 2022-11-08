@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🤔 I'm looking for an internship opportunity with a corporation.
 
-🌱 I’m currently learning about React.
+🌱 I’m currently learning about SRS.
 
 😪 ..z
 
