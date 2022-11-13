@@ -24,7 +24,5 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning about SRS.
 
-😪 ..z
-
 ~~~
 :trollface:
