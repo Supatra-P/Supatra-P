@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Howdy!😳
+## Howdy!😳
 ~~~
 
 🏛 I'm studying at Thammasat University.
