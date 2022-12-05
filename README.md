@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 🤔 I'm looking for an internship opportunity with a corporation.
 
-🌱 I’m currently learning about SRS.
+🌱 I’m currently learning about JavaScript.
+
+💮 My preferred career wants to be is a Full Stack Developer.
 
 ~~~
 :trollface:
