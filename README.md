@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💮 My preferred career wants to be is a Full Stack Developer.
 
-🌱 I’m currently learning about JavaScript.
+🌱 I’m currently learning about TypeScript.
 
 ~~~
 :trollface:
