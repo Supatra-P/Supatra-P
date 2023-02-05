@@ -18,16 +18,7 @@ Here are some ideas to get you started:
 ## Howdy!😳
 ~~~
 
-🏛 I'm studying at Thammasat University.
-
-🍕 I'm looking for an internship opportunity with a corporation.
-
-💮 My preferred career wants to be is a Full Stack Developer.
-
-🌱 I’m currently learning about TypeScript.
-
 ~~~
-:trollface:
 
 Programming Languages
 
