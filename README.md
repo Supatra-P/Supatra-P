@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!-- ## Howdy!😳 ***** -->
 
 ### Welcome to my Github profile!
-<b>Hi, I'm Supatra. I'm currently in third year of Bachelors in Software Engineering.
-These day, I'm looking for a part time job and internship oppotunity as a frontend developer. Would like to see some of my project, <a href="https://github.com/Supatra-P?tab=repositories">click here.</a></b>
+Hi, I'm Supatra. I'm currently in third year of Bachelors in Software Engineering.
+These day, I'm looking for a part time job and internship oppotunity as a frontend developer. Would like to see some of my project, <a href="https://github.com/Supatra-P?tab=repositories"><b>click here.</b></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
