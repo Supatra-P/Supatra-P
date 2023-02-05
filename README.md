@@ -39,7 +39,7 @@ These day, I'm looking for a part time job and internship oppotunity as a fronte
 <a href="https://helpx.adobe.com/support/xd.html" title="Adobe XD"><img src="https://user-images.githubusercontent.com/78303835/216830647-eda02214-c630-454f-93e7-1ed1ebe8ccaf.svg" alt="Adobe XD" width="21px" height="21px"></a>
 <a href="http://figma.com" title="Figma"><img src="https://user-images.githubusercontent.com/78303835/216830649-b3674888-afb2-4d7a-95f6-e717b1587d08.svg" alt="Figma" width="21px" height="21px"></a>
 
-<br>
+---
 
 <i>Want to collaborate, reach me below.</i>
 
