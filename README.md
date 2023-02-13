@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 Hi, I'm Supatra. I'm currently in third year of Bachelors in Software Engineering.
 These day, I'm looking for a part time job and internship oppotunity as a frontend developer. Would like to see some of my project, <a href="https://github.com/Supatra-P?tab=repositories"><b>click here.</b></a>
 
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
@@ -49,7 +50,6 @@ These day, I'm looking for a part time job and internship oppotunity as a fronte
 <a href="https://www.instagram.com/uspienc/" title="Instagram"><img src="https://user-images.githubusercontent.com/78303835/216836176-5846aaad-8f49-413e-8e34-1afcf9a481b9.png" alt="Instagram" width="32px" height="32px"></a>
 
 <!-- <a href="" title=""><img src="" alt="" width="21px" height="21px"></a> -->
-<!-- <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> -->
 <!-- <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a> -->
 
 
