@@ -42,7 +42,7 @@ These day, I'm looking for a part time job and internship oppotunity as a fronte
 
 ---
 
-<i>Want to collaborate, reach me below.</i>
+<a href="https://emoji.gg/emoji/1177-makimaisaiming"><img src="https://cdn3.emoji.gg/emojis/1177-makimaisaiming.png" width="20px" height="20px" alt="MakimaIsAiming"></a><i>Want to collaborate, reach me below.</i>
 
 <a href="mailto: supatra.pinjinda@gmail.com" title="Email"><img src="https://user-images.githubusercontent.com/78303835/216836184-ef70d0c8-292a-4eeb-9a77-29d666ae6baa.png" alt="Email" width="32px" height="32px"></a>
 <a href="https://www.linkedin.com/in/supatra-p/" title="LinkedIn"><img src="https://user-images.githubusercontent.com/78303835/216836180-37a9c0a6-1723-4eab-a688-70ecadc9e6fa.png" alt="LinkedIn" width="32px" height="32px"></a>
