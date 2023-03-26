@@ -26,8 +26,8 @@ These day, I'm looking for a part time job and internship oppotunity as a fronte
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
-<a href="http://dart.dev" title="Dart"><img src="https://user-images.githubusercontent.com/78303835/216830650-80860ab2-f11a-4188-a052-6510f4eb6a10.svg" alt="Dart" width="21px" height="21px"></a>
-<a href="http://flutter.dev" title="Flutter"><img src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" alt="Flutter" width="21px" height="21px"></a>
+<a href="https://dart.dev" title="Dart"><img src="https://user-images.githubusercontent.com/78303835/216830650-80860ab2-f11a-4188-a052-6510f4eb6a10.svg" alt="Dart" width="21px" height="21px"></a>
+<a href="https://flutter.dev" title="Flutter"><img src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" alt="Flutter" width="21px" height="21px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="21px" height="21px"></a>
@@ -39,7 +39,7 @@ These day, I'm looking for a part time job and internship oppotunity as a fronte
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 <a href="https://helpx.adobe.com/support/xd.html" title="Adobe XD"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-xd.svg" alt="Adobe XD" width="21px" height="21px"></a>
-<a href="http://figma.com" title="Figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="Figma" width="21px" height="21px"></a>
+<a href="https://figma.com" title="Figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="Figma" width="21px" height="21px"></a>
 
 ---
 
