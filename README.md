@@ -35,6 +35,7 @@ These day, I'm looking for a part time job and internship oppotunity as a fronte
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://www.rabbitmq.com" title="RabbitMQ"><img src="https://github.com/get-icon/geticon/raw/master/icons/rabbitmq.svg" alt="RabbitMQ" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
+<a href="https://www.blender.org" title="Blender"><img src="https://github.com/get-icon/geticon/raw/master/icons/blender.svg" alt="Blender" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 <a href="https://helpx.adobe.com/support/xd.html" title="Adobe XD"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-xd.svg" alt="Adobe XD" width="21px" height="21px"></a>
