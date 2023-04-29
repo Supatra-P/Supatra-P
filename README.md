@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Welcome to my Github profile!
 Hi, I'm Supatra. I'm currently in third year of Bachelors in Software Engineering.
-These day, I'm looking for a part time job and internship oppotunity as a frontend developer. Would like to see some of my project, <a href="https://github.com/Supatra-P?tab=repositories"><b>click here.</b></a>
+These day, I am a freelancer (frontend developer) looking for a cooperative internship as a full-stack developer in the Q1 of 2024. Would like to see some of my project, <a href="https://github.com/Supatra-P?tab=repositories"><b>click here.</b></a>
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
