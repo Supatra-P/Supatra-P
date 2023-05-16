@@ -26,12 +26,13 @@ These day, I am a freelancer (frontend developer) looking for a cooperative inte
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
-<a href="https://dart.dev" title="Dart"><img src="https://user-images.githubusercontent.com/78303835/216830650-80860ab2-f11a-4188-a052-6510f4eb6a10.svg" alt="Dart" width="21px" height="21px"></a>
-<a href="https://flutter.dev" title="Flutter"><img src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" alt="Flutter" width="21px" height="21px"></a>
-<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
+<a href="https://www.djangoproject.com" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="21px" height="21px"></a>
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="21px" height="21px"></a>
 <a href="https://www.codeigniter.com/" title="CodeIgniter"><img src="https://github.com/get-icon/geticon/raw/master/icons/codeigniter.svg" alt="CodeIgniter" width="21px" height="21px"></a>
+<a href="https://dart.dev" title="Dart"><img src="https://user-images.githubusercontent.com/78303835/216830650-80860ab2-f11a-4188-a052-6510f4eb6a10.svg" alt="Dart" width="21px" height="21px"></a>
+<a href="https://flutter.dev" title="Flutter"><img src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" alt="Flutter" width="21px" height="21px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://www.rabbitmq.com" title="RabbitMQ"><img src="https://github.com/get-icon/geticon/raw/master/icons/rabbitmq.svg" alt="RabbitMQ" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
